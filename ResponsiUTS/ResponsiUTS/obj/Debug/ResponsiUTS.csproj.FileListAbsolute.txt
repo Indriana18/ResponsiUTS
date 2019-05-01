@@ -1,0 +1,7 @@
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\bin\Debug\ResponsiUTS.exe.config
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\bin\Debug\ResponsiUTS.exe
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\bin\Debug\ResponsiUTS.pdb
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\obj\Debug\ResponsiUTS.csprojAssemblyReference.cache
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\obj\Debug\ResponsiUTS.csproj.CoreCompileInputs.cache
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\obj\Debug\ResponsiUTS.exe
+D:\UTS PEMROGRAMAN\ResponsiUTS\ResponsiUTS\obj\Debug\ResponsiUTS.pdb
